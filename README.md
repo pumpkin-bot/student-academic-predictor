@@ -35,7 +35,7 @@ An end-to-end machine learning system designed to detect students at risk of aca
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/student-academic-predictor.git
+   git clone [https://github.com/pumpkin-bot/student-academic-predictor.git](https://github.com/pumpkin-bot/student-academic-predictor.git)
    cd student-academic-predictor
    ```
 2. Create and activate a virtual environment:
